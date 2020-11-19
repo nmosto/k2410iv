@@ -1,6 +1,6 @@
 # k2410iv
 
-This is a script built to do automated instrumentation control and data aquisition across a wide range of Keithley Source Measure Units.
+This is a script built to do automated instrumentation control and data acquisition across a wide range of Keithley Source Measure Units.
 
 Specific scripts are written in this file for highly configurable IV measurements.
 
